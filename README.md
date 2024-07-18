@@ -1,4 +1,8 @@
 # Python Project for Data Engineering
+
+**The following project is part of [IBM Data Engineering program](https://www.coursera.org/professional-certificates/ibm-data-engineer?myLearningTab=IN_PROGRESS)**
+
+![image](https://github.com/user-attachments/assets/577dc3e6-6f4f-44d3-9c9f-3d0d0f0a7ab6)
 [1. ETL-project](https://github.com/Kmohamedalie/Python-Project-for-Data-Engineering/tree/master/1.%20ETL-project)
 
 [2. web scraping API - project](https://github.com/Kmohamedalie/Python-Project-for-Data-Engineering/tree/master/2.%20web%20scraping%20API%20-%20project)
